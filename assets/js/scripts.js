@@ -23,7 +23,6 @@ function transformarTexto(){
         elParrafoTransformado.innerText = resultadoTransformacion;
     }
  
-    
 }
 
 function asignarEventos(){
